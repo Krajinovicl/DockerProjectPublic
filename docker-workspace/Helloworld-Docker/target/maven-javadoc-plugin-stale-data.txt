@@ -1,0 +1,49 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Projekte/MavenRepository/jakarta/servlet/jakarta.servlet-api/6.0.0/jakarta.servlet-api-6.0.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Projekte/docker-workspace/Helloworld-Docker/src/main/java;C:/Projekte/docker-workspace/Helloworld-Docker/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2022&#x2013;2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Projekte/docker-workspace/Helloworld-Docker/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Helloworld-Docker 0.0.1-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Helloworld-Docker 0.0.1-SNAPSHOT API'
+Docker_Jenkins_Wildfly.Helloworld_Docker
+'C:/Projekte/docker-workspace/Helloworld-Docker/src/main/java/Docker_Jenkins_Wildfly/Helloworld_Docker/Main.java'
+C:\Projekte\MavenRepository\jakarta\servlet\jakarta.servlet-api\6.0.0\jakarta.servlet-api-6.0.0.jar = 1701076997156
+C:\Projekte\docker-workspace\Helloworld-Docker\src\main\java = 1701074606130
+C:\Projekte\docker-workspace\Helloworld-Docker\target\generated-sources\annotations = 1701089593266
+C:\Projekte\docker-workspace\Helloworld-Docker\target\apidocs\allclasses-index.html = 1701089601181
+C:\Projekte\docker-workspace\Helloworld-Docker\target\apidocs\allpackages-index.html = 1701089601187
+C:\Projekte\docker-workspace\Helloworld-Docker\target\apidocs\element-list = 1701089601066
+C:\Projekte\docker-workspace\Helloworld-Docker\target\apidocs\help-doc.html = 1701089601236
+C:\Projekte\docker-workspace\Helloworld-Docker\target\apidocs\index-all.html = 1701089601220
+C:\Projekte\docker-workspace\Helloworld-Docker\target\apidocs\index.html = 1701089601225
+C:\Projekte\docker-workspace\Helloworld-Docker\target\apidocs\jquery-ui.overrides.css = 1701089601286
+C:\Projekte\docker-workspace\Helloworld-Docker\target\apidocs\member-search-index.js = 1701089601203
+C:\Projekte\docker-workspace\Helloworld-Docker\target\apidocs\module-search-index.js = 1701089601191
+C:\Projekte\docker-workspace\Helloworld-Docker\target\apidocs\overview-tree.html = 1701089601164
+C:\Projekte\docker-workspace\Helloworld-Docker\target\apidocs\package-search-index.js = 1701089601195
+C:\Projekte\docker-workspace\Helloworld-Docker\target\apidocs\script.js = 1701089601247
+C:\Projekte\docker-workspace\Helloworld-Docker\target\apidocs\search.js = 1701089601253
+C:\Projekte\docker-workspace\Helloworld-Docker\target\apidocs\serialized-form.html = 1701089601128
+C:\Projekte\docker-workspace\Helloworld-Docker\target\apidocs\stylesheet.css = 1701089601243
+C:\Projekte\docker-workspace\Helloworld-Docker\target\apidocs\tag-search-index.js = 1701089601208
+C:\Projekte\docker-workspace\Helloworld-Docker\target\apidocs\type-search-index.js = 1701089601199
